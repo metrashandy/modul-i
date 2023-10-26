@@ -40,7 +40,6 @@ int main()
          scanf("%lf", &Num1);
          printf("masukan bilangan kedua :");
          scanf("%lf", &Num2);
-         if(Num1 <= 0 || ){}
          hasil = Num1 * Num2;
          printf("\nhasil = %lf", hasil);
          ulang = true;
